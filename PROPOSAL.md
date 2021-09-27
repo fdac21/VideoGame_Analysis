@@ -15,7 +15,9 @@ The intended audience for this data analysis include the following:
 - Video game enthusiasts curious about video game metrics
 
 ## List of Skills Required/Acquired
-
+Skills required for project:
+- Most of code will be written in python since its best for data scraping and analytics.
+- Some knowledge about HTTP, CSS and JS.
 <!--
 Some questions for video game analysis:
 - Did certain video game genres increase due to the pandemic (e.g. the activity of online social and simulation games with popularity of games such as Animal Crossing and Among Us)?
