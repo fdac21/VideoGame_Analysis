@@ -18,6 +18,14 @@ The intended audience for this data analysis include the following:
 Skills required for project:
 - Most of code will be written in python since its best for data scraping and analytics.
 - Some knowledge about HTTP, CSS and JS.
+
+## Datasets
+Video games span across different platforms, so to better assess results, datasets may need to be collected from sites such as:
+- Twitch (popularity of a game in relation to number of viewers)
+- YouTube Gaming (similar to above)
+- Steam (number of users online for a game during day/week/month)
+- Apple's App Store and Google Play (measure the traffic of downloads)
+
 <!--
 Some questions for video game analysis:
 - Did certain video game genres increase due to the pandemic (e.g. the activity of online social and simulation games with popularity of games such as Animal Crossing and Among Us)?
