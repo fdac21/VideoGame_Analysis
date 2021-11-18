@@ -1,0 +1,21 @@
+appid,name,developer,publisher,score_rank,positive,negative,userscore,owners,average_forever,average_2weeks,median_forever,median_2weeks,price,initialprice,discount,languages,genre,ccu,tags
+15350,Brain Spa,Ubisoft,Ubisoft,,4,6,0,"0 .. 20,000",0,0,0,0,999,999,0,English,Casual,0,{'Casual': 20}
+33760,The Search for Amelia Earhart,Bamtang,Cosmi Valusoft,,3,9,0,"20,000 .. 50,000",0,0,0,0,699,699,0,English,Casual,0,"{'Casual': 44, 'Hidden Object': 10}"
+34311,Kid Chameleon,SEGA,SEGA,,4,0,0,"20,000 .. 50,000",0,0,0,0,99,99,0,English,,0,"{'Platformer': 10, 'Retro': 6}"
+34317,Columns III,SEGA,SEGA,,3,1,0,"20,000 .. 50,000",0,0,0,0,99,99,0,English,Casual,0,"{'Casual': 23, 'Puzzle': 6}"
+36900,Angle of Attack,3000AD,3000AD,,0,3,0,"20,000 .. 50,000",0,0,0,0,999,999,0,English,"Action, Casual, Indie, Simulation",0,"{'Casual': 101, 'Flight': 96, 'Sci-fi': 90, 'Simulation': 87, 'Action': 84, 'Shooter': 75, 'Sandbox': 73, 'Artificial Intelligence': 71, 'Futuristic': 69, 'Combat': 67, 'Open World': 65, 'Co-op': 63, 'Multiplayer': 61, 'Singleplayer': 57, 'Local Multiplayer': 46, 'Online Co-Op': 44, 'Real-Time': 42, 'Comedy': 29, 'Space': 27, 'Indie': 20}"
+36910,All Aspect Warfare,3000AD,3000AD,,3,9,0,"50,000 .. 100,000",0,0,0,0,999,999,0,English,"Action, Casual, Indie, Simulation",0,"{'FPS': 100, 'Sci-fi': 94, 'Flight': 91, 'Sandbox': 88, 'Casual': 87, 'Robots': 85, 'Artificial Intelligence': 79, 'Shooter': 77, 'Third Person': 75, 'First-Person': 73, 'Open World': 71, 'Action': 69, 'Simulation': 56, 'Futuristic': 33, 'Combat': 31, 'Co-op': 29, 'Multiplayer': 27, 'Singleplayer': 25, 'Local Multiplayer': 23, 'Online Co-Op': 21}"
+42900,Hearts of Iron III: Semper Fi,Paradox Development Studio,Paradox Interactive,,1,0,0,"50,000 .. 100,000",0,0,0,0,499,499,0,English,Strategy,0,"{'Strategy': 35, 'Grand Strategy': 10, 'World War II': 9}"
+46840,Ironclads: Chincha Islands War 1866,Totem Games,Strategy First,,3,12,0,"20,000 .. 50,000",0,0,0,0,999,999,0,English,Strategy,0,"{'Strategy': 24, 'Naval': 5}"
+71110,ESWAT: City Under Siege,SEGA,SEGA,,2,0,0,"0 .. 20,000",0,0,0,0,99,99,0,English,,0,"{'Retro': 7, 'Cyberpunk': 6, 'Action': 5, 'Platformer': 5, '2D': 5}"
+71111,Flicky,SEGA,SEGA,,4,0,0,"20,000 .. 50,000",0,0,0,0,99,99,0,English,,0,"{'Arcade': 7, '2D': 7, 'Platformer': 6}"
+71167,ToeJam & Earl in Panic on Funkotron,SEGA,SEGA,,2,0,0,"20,000 .. 50,000",0,0,0,0,99,99,0,English,,0,"{'Platformer': 8, 'Classic': 5}"
+211202,Golden Axe III,,SEGA,,3,0,0,"0 .. 20,000",0,0,0,0,99,99,0,English,,0,"{""Beat 'em up"": 17, 'Fantasy': 9, '2D': 7, 'Co-op': 6, 'Classic': 6, 'Retro': 6, 'Action': 5}"
+211203,Phantasy Star II,,SEGA,,1,1,0,"20,000 .. 50,000",0,0,0,0,99,99,0,English,,0,"{'JRPG': 24, 'RPG': 22, 'Classic': 15, 'Sci-fi': 11, 'Adventure': 7, '2D': 7, 'Singleplayer': 5}"
+211207,The Revenge of Shinobi,,SEGA,,2,0,0,"20,000 .. 50,000",0,0,0,0,99,99,0,English,,0,"{'Ninja': 9, 'Platformer': 8, 'Retro': 8, 'Singleplayer': 5}"
+211208,VectorMan 2,,SEGA,,2,0,0,"20,000 .. 50,000",0,0,0,0,99,99,0,English,,0,"{'Platformer': 6, 'Action': 5}"
+211209,Wonder Boy in Monster World,,SEGA,,4,0,0,"20,000 .. 50,000",0,0,0,0,99,99,0,English,,0,"{'Metroidvania': 10, 'Classic': 8, 'Side Scroller': 7, 'Retro': 7}"
+229790,Might & Magic: Heroes VI - Shades of Darkness,Virtuos,Ubisoft,,4,1,0,"50,000 .. 100,000",0,0,0,0,1499,1499,0,"English, Czech, French, German, Hungarian, Italian, Polish, Russian, Spanish - Spain, Korean","RPG, Strategy",0,"{'Strategy': 60, 'RPG': 46, 'Turn-Based Strategy': 31, 'Turn-Based': 27, 'Fantasy': 13}"
+269430,Burning Cars,Polynetix Studio,Polynetix Studio,,4,35,0,"100,000 .. 200,000",299,0,306,0,599,599,0,"English, Russian",Racing,0,"{'Racing': 40, 'Action': 5}"
+279280,Ohmicide,Ohm Force,Ohm Force,,1,0,0,"50,000 .. 100,000",0,0,0,0,12499,12499,0,English,Audio Production,0,{'Audio Production': 51}
+285670,Galactic Command Echo Squad SE,3000AD,3000AD,,1,4,0,"20,000 .. 50,000",0,0,0,0,999,999,0,English,"Action, Adventure, Casual, Indie, Simulation, Strategy",0,"{'Strategy': 217, 'Simulation': 212, 'Sci-fi': 206, 'Space': 203, 'Action': 200, 'Sandbox': 189, 'Shooter': 184, 'Space Sim': 176, 'Flight': 168, '3D': 158, 'Artificial Intelligence': 151, 'Futuristic': 147, 'Combat': 142, 'Open World': 127, 'Adventure': 121, 'Singleplayer': 114, 'Comedy': 87, 'FPS': 78, 'Based On A Novel': 76, 'Female Protagonist': 62}"
